@@ -1,5 +1,8 @@
 {
   "latest_version": "1.1.0",
-  "message": "最新バージョンが公開されています。\n時刻表データの最新化のためアップデートしてください。",
-  "url": "https://knsoftsystemdevelopment-afk.github.io/trainnow/"
+  "message": "最新バージョンが公開されています\n時刻表データの最新化のためアップデートしてください",
+  "url_ios": "https://apps.apple.com/jp/app/yourapp",
+  "url_android": "https://play.google.com/store/apps/details?id=yourapp",
+  "url_web": "https://knsoftsystemdevelopment-afk.github.io/trainnow/",
+  "force_update": false
 }
